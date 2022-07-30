@@ -20,6 +20,4 @@ describe Solver do
     expect(solver.fizzbuzz(30)).to eq('fizzbuzz')
     expect(solver.fizzbuzz(7)).to eq('7')
   end
-
-
 end
